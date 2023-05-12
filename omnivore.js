@@ -19,6 +19,7 @@ class Omnivore{
             }
         }
         return found;
+        //privet
     }
     getNewCoordinates(){
             this.directions = [
